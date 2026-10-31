@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone · 销售过程与成交练习"
+  short_description: "Build a 销售过程与成交练习 using expert methodology"
+  default_prompt: "Use $gcs-sales to build a practical 销售过程与成交练习 for my situation."

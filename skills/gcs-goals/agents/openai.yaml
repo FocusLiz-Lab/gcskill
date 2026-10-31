@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone · 目标拆解与行动安排"
+  short_description: "Build a 目标拆解与行动安排 using expert methodology"
+  default_prompt: "Use $gcs-goals to build a practical 目标拆解与行动安排 for my situation."

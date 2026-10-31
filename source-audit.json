@@ -1,0 +1,246 @@
+{
+  "prefix": "gcs",
+  "repository": "gcskill",
+  "creator": "GrantCardone",
+  "source_files": 7703,
+  "unique_sources": 5923,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 1169,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/06 10X增长大会/190117 10X增长大会演讲嘉宾公布.md",
+          "title": "190117 10X增长大会演讲嘉宾公布",
+          "url": "https://www.youtube.com/watch?v=ZeyyawqjERA",
+          "date": "2019-01-17",
+          "sha256": "867cee50508e7cb7e94daa4d511e0032a92007c86b4e13cb439a6abe57ae40fb",
+          "chars": 53845,
+          "excerpt": "所以我听到了吉姆·罗恩（Jim Rohn，注：原文为Nightingale，结合语境及“5年专家论”通常归于罗恩或类似成功学大师，此处保留原文发音对应的常见译名或直译，但根据上下文Nightingale可能指Napoleon Hill或其他，不过最著名的是Jim Rohn的“每天一小时五年成专家”理论。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 财富与投资/211017 富人的理财建议.md",
+          "title": "211017 富人的理财建议",
+          "url": "https://www.youtube.com/watch?v=P-2407JzgM8",
+          "date": "2021-10-17",
+          "sha256": "46cf5e529a5cc92e12cc892f8898626192e24fa8df4f6dc88dcfb9b67b6c7a77",
+          "chars": 52155,
+          "excerpt": "”无论如何，我认为从哲学角度来看这件事的方式是：当钱在整夜为你工作时，你在睡觉，而它在外面发挥作用——要么给你利息，要么给你分红，要么它的资本正在增长，因为你投资了一家企业。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 心态与成长/171020 Do you learn more from success or failure-.md",
+          "title": "171020 Do you learn more from success or failure-",
+          "url": "https://www.youtube.com/watch?v=b3a-JZmssLM",
+          "date": "2017-10-20",
+          "sha256": "337c003d6d294ee6dab746a848d3a4462155ac4c97e6047dfcea17440057488f",
+          "chars": 2929,
+          "excerpt": "The problem is that if there's a consistent mistake I make is that I don't learn from what just worked for me."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 1403,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 财富与投资/211017 富人的理财建议.md",
+          "title": "211017 富人的理财建议",
+          "url": "https://www.youtube.com/watch?v=P-2407JzgM8",
+          "date": "2021-10-17",
+          "sha256": "46cf5e529a5cc92e12cc892f8898626192e24fa8df4f6dc88dcfb9b67b6c7a77",
+          "chars": 52155,
+          "excerpt": "好吧，那之外还有别的东西，所有这些都嵌套在一起，所有这一切，所有的时间，所以，所以，所以，我理解因为你你说的是什么，我听到你说的是这个简单的目标设定具有向前运动到一个整合到一个整合的目标整合到我的价值观，所以像我变得富有，如果我想要变得富有，但是我，我用毒品，我卖毒品，我就是，那是一个坏主意，那不是整合的，所以虽然你知道有一个好的人类学研究显示，呃，芝加哥的毒品卖家比他们的各位同胞，你知道最疯狂的是什么吗？"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/10 法律事件与宣誓证词/260720 格兰特·卡多内揭露1000亿美元集体诉讼骗局及萨斯曼·戈弗雷律师事务所完整庭审记录.md",
+          "title": "260720 格兰特·卡多内揭露1000亿美元集体诉讼骗局及萨斯曼·戈弗雷律师事务所完整庭审记录",
+          "url": "https://www.youtube.com/watch?v=jhzq8WCufDk",
+          "date": "2026-07-20",
+          "sha256": "52273e734a6908ec53dadd72c07e157b6b486e845ffb857153199875442e3461",
+          "chars": 113540,
+          "excerpt": "自2014年以来，我一直在为普通大众制作教育内容，以便他们能够简单轻松地理解富裕机构和家庭多年来如何利用房地产投资他们的资金，而不是把钱留在银行、401(k)计划、IRA账户中，或者仅仅是买房。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/10 法律事件与宣誓证词/260723 他们试图让我沉默！6亿美元公司企图封杀我的证词，却被法院粉碎——第二天作证.md",
+          "title": "260723 他们试图让我沉默！6亿美元公司企图封杀我的证词，却被法院粉碎——第二天作证",
+          "url": "https://www.youtube.com/watch?v=DtoWaie0sic",
+          "date": "2026-07-23",
+          "sha256": "8209a27769d3cb4d34494d6702706de2e118154acfc7032b3d0a1d0add35c47f",
+          "chars": 133718,
+          "excerpt": "我们今年刚刚为非合格投资者开设了一个基金，最低投资额 5000 美元，目标现金流回报率 6%，每月分红，目标持有时间 10 年 >> 投资者的目标回报率为每年 15%，就像我们的合格投资者一样。"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "goals": {
+      "matching_sources": 1527,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 财富与投资/211017 富人的理财建议.md",
+          "title": "211017 富人的理财建议",
+          "url": "https://www.youtube.com/watch?v=P-2407JzgM8",
+          "date": "2021-10-17",
+          "sha256": "46cf5e529a5cc92e12cc892f8898626192e24fa8df4f6dc88dcfb9b67b6c7a77",
+          "chars": 52155,
+          "excerpt": "第二步：作为个人、家庭财务管理者，以及企业主和公司部门经理——无论是房地产、活动业务、图书业务、线上业务、Cardone Ventures 还是 10x Incubator——在我参与的任何企业中，我 95% 的时间都花在设定目标以及实现这些目标上。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 心态与成长/150630 10X Success Testimonial.md",
+          "title": "150630 10X Success Testimonial",
+          "url": "https://www.youtube.com/watch?v=PZ8XG7RBQgU",
+          "date": "2015-06-30",
+          "sha256": "f8018979ff85bd5705deb01822d5c32c5de090617750e99b0b7c8d8ed42dc9b0",
+          "chars": 21612,
+          "excerpt": "com your 10Successs in a 10 second video and if we use it I am going to give you FREE access to my upcoming 10X Event"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/10 法律事件与宣誓证词/260720 格兰特·卡多内揭露1000亿美元集体诉讼骗局及萨斯曼·戈弗雷律师事务所完整庭审记录.md",
+          "title": "260720 格兰特·卡多内揭露1000亿美元集体诉讼骗局及萨斯曼·戈弗雷律师事务所完整庭审记录",
+          "url": "https://www.youtube.com/watch?v=jhzq8WCufDk",
+          "date": "2026-07-20",
+          "sha256": "52273e734a6908ec53dadd72c07e157b6b486e845ffb857153199875442e3461",
+          "chars": 113540,
+          "excerpt": "Delray 的 10x Living、Sawrass、Breakfast Point 的 10X Living 以及 PCB 的 Vantage 都是五年期的仅付息抵押贷款，对吧？"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "sales": {
+      "matching_sources": 1966,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 财富与投资/10X金钱对话/251119 Michael Saylor Bitcoin Predictions - 10X Money Talks.md",
+          "title": "251119 Michael Saylor Bitcoin Predictions - 10X Money Talks",
+          "url": "https://www.youtube.com/watch?v=fxSOcpYRlLg",
+          "date": "2025-11-19",
+          "sha256": "c379602c37498663c095350f208e2d86f96c55feae29450ecb5570e70133f96a",
+          "chars": 141757,
+          "excerpt": "So we have to do a transformational acquisition and >> and since there's no other company growing 80% a year that's available at one times revenue that'll sell sell us sell themselves to us >> Bitcoin was the deal right Bitcoin was >> yeah so so we looked at it and we thought we can buy the dominant digital monetary network at onetimes revenue it's growing 80% a year on paper it looks just fine it's just no one ever done it before but But um the theory isn't that complicated."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/130321 格兰特·卡多内谈汽车广告与线索转化.md",
+          "title": "130321 格兰特·卡多内谈汽车广告与线索转化",
+          "url": "https://www.youtube.com/watch?v=29dJkZKbuME",
+          "date": "2013-03-21",
+          "sha256": "b8bae4af600b2d4b8ffd49f0c0ef8c55623f404fb9548c00cf521c04156333b7",
+          "chars": 26288,
+          "excerpt": "尼克说：“听了你的卡多内销售公式（Cardone sales formula）后，既然‘人等于销售额’（people equals sales），是不是诀窍在于把潜在客户（leads）转化为‘人’？"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 房地产/180202 How To Sell $287,000 A Day & Own $700,000,000 In Real Estate- Grant Cardone & Tai Lopez.md",
+          "title": "180202 How To Sell $287,000 A Day & Own $700,000,000 In Real Estate- Grant Cardone & Tai Lopez",
+          "url": "https://www.youtube.com/watch?v=6wp1gan-PwQ",
+          "date": "2018-02-02",
+          "sha256": "dce6a414d08e9c661bcf539a7cd96e339d6283e07c7dd680180269c504a85b73",
+          "chars": 80554,
+          "excerpt": "I had the chance to visit Tai Lopez last time I was in LA and we talked about why sales is essential to success in every area of life, as well as how to generate real wealth and cash flow through a careful, thoughtful real estate strategy."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "follow-up": {
+      "matching_sources": 560,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/04 年轻奋斗者秀/160212 如何通过跟进赚得数百万 - 年轻创业者的抢先预览.md",
+          "title": "160212 如何通过跟进赚得数百万 - 年轻创业者的抢先预览",
+          "url": "https://www.youtube.com/watch?v=ITsDxgHwrkA",
+          "date": "2016-02-12",
+          "sha256": "33f8d77235f162697b60d47b0d8074c266a43d80d82b3b055ff729e3c2ef6a7e",
+          "chars": 473,
+          "excerpt": "今天，在 Young Hustlers 节目中，Jarrod Glandt 将单独出镜，探讨跟进（follow-up）的重要性。你因为跟进不足而丢失了多少订单？许多人因在跟进上未见成效便轻言放弃。他们打了一个电话，然后就没了下文。如果你能坚持不懈地跟进……\n\n今天的节目聚焦于一个让我赚得盆满钵满的领域。如果我没搞明白这一点，我可能根本不会为 Grant 工作。这一策略是我收入增长和财富积累的最大功臣——虽然用“财富”这个词还略显夸张，毕竟目前主要是我所创造的收入，但我未来真正的财富积累也将归功于此。它之所以如此重要，之所以堪称有史以来最伟大的销售秘诀，是因为几乎没人真正去做，更没有人正确地去做。纵观历史，最伟大的销售秘诀就是“跟进”。今天，我将向大家展示如何通过跟进实现百万营收。在接下来的几天里，我们将深入探讨跟进这个话题。说实话，当我与企业主或销售经理交流时，他们总是抱怨：“老兄，我的团队根本不去跟进，也没有执行到底。”Young Hustlers 也可在 iTunes 和 Stitcher 上下载收听，详见下方描述中的链接。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/160622 最佳营销与跟进技巧 - 请教专家.md",
+          "title": "160622 最佳营销与跟进技巧 - 请教专家",
+          "url": "https://www.youtube.com/watch?v=85v-G7eZIzI",
+          "date": "2016-06-22",
+          "sha256": "b6cd20dd25b1256ed90f063b8870c5cad28ede29bb2d5d57298272fb7709dc11",
+          "chars": 10290,
+          "excerpt": "这也是我喜欢 Effective 的原因，更是我喜欢你和 Kadon 的原因：你们让我意识到，不仅要帮助人们表达感激之情，还要理解后续跟进、措辞、一致性以及视角等要素如何融会贯通。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/180530 Grant Cardone Does a Live Training Session with His Sales Team.md",
+          "title": "180530 Grant Cardone Does a Live Training Session with His Sales Team",
+          "url": "https://www.youtube.com/watch?v=UF4vdjsSYwI",
+          "date": "2018-05-30",
+          "sha256": "5cf01255866b579d07c9ab6bad7fe2af7963e8cedbad07bef163a695a941fe09",
+          "chars": 27632,
+          "excerpt": "Look to solve 1 problem for someone, you don't need to solve all their problems!"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "pipeline": {
+      "matching_sources": 155,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/140806 Sales Prospecting by Grant Cardone.md",
+          "title": "140806 Sales Prospecting by Grant Cardone",
+          "url": "https://www.youtube.com/watch?v=61x53NYlINc",
+          "date": "2014-08-06",
+          "sha256": "a351ee1a9cc82e652f4a999cf89225691c4b251d86aab4fd3501f62fbb2e7faf",
+          "chars": 1309,
+          "excerpt": "Grant Cardone talks in his Sales University about the importance of prospecting to the sales person's independence and value to any company."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/130214 Grant Cardone Talks Sales & Lead Conversion at Auto Convention.md",
+          "title": "130214 Grant Cardone Talks Sales & Lead Conversion at Auto Convention",
+          "url": "https://www.youtube.com/watch?v=PqeC_qv4Ugo",
+          "date": "2013-02-14",
+          "sha256": "b8372ba664ea7f0da3b288fd1321b611094f940732a3b5a2d5aa3cb52134fe83",
+          "chars": 1479,
+          "excerpt": "com CarBiz Today cover Best Training Day Ever put on by Larry Dorfman and CoVideo with Shell Oil and NCM"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/141209 Grant Cardone Automotive Sales Training University and Ad Conversion.md",
+          "title": "141209 Grant Cardone Automotive Sales Training University and Ad Conversion",
+          "url": "https://www.youtube.com/watch?v=MaaI8HOHmoE",
+          "date": "2014-12-09",
+          "sha256": "9d73e7a15d98b7aa4598d0f5bdcf9a6edfe76e83a1afd6a6df5dc4c811e238f0",
+          "chars": 1161,
+          "excerpt": "Outlining what is necessary for your staff from Monday through Saturday and how to go all the way through to the end of the sale."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "sales-team": {
+      "matching_sources": 1031,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/09 人物媒体与品牌动态/160719 如何打造卓越团队 - Grant Cardone 和 Don Yaeger.md",
+          "title": "160719 如何打造卓越团队 - Grant Cardone 和 Don Yaeger",
+          "url": "https://www.youtube.com/watch?v=ZaP-h4iBjxg",
+          "date": "2016-07-19",
+          "sha256": "10f2c7e27f12a2a638ba94789e117cbae95372f32a71168b8d6c16e0c367857a",
+          "chars": 5252,
+          "excerpt": "他是24到25部著作的作者，著有《伟大团队：高效组织与众不同的16件事》（Great Teams: 16 Things High-Performing Organizations Do Differently）。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录05 节目访谈与动态/09 人物媒体与品牌动态/180415 格兰特·卡多内如何打造10X文化.md",
+          "title": "180415 格兰特·卡多内如何打造10X文化",
+          "url": "https://www.youtube.com/watch?v=oFrGJAfrCfc",
+          "date": "2018-04-15",
+          "sha256": "e15761a1c03b74bf70e4e303ebf768dae0e91c221d059d927e2c9a48dbc1dabb",
+          "chars": 17014,
+          "excerpt": "对于每一位来到这里的公司高管，如果你没有带上你的团队，那么当你回去时面临的一个劣势是：你获得了大量宝贵的信息，但如果玩过“传话游戏”（telephone game），消息传到三四个人那里时就会变样。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 销售与商业/100222 Sales - Automotive Sales Training and Sales TRAINING for 21st Century and all its myths.md",
+          "title": "100222 Sales - Automotive Sales Training and Sales TRAINING for 21st Century and all its myths",
+          "url": "https://www.youtube.com/watch?v=_jD4RcFFwEs",
+          "date": "2010-02-22",
+          "sha256": "f1822884f17a7284f6ab2d6f32f5140b961e8a28ecb53242b558de1b776dc4f7",
+          "chars": 2242,
+          "excerpt": "Sales training expert Grant Cardone • Automotive Sales Training • Automotive Telephone Training • Automotive Management Training • Dealership Sales Training"
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

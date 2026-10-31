@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone · 销售团队训练与管理"
+  short_description: "Build a 销售团队训练与管理 using expert methodology"
+  default_prompt: "Use $gcs-sales-team to build a practical 销售团队训练与管理 for my situation."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone · 客户跟进"
+  short_description: "Build a 客户跟进 using expert methodology"
+  default_prompt: "Use $gcs-follow-up to build a practical 客户跟进 for my situation."

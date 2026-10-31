@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone工具箱"
+  short_description: "Grant Cardone expert workflow router"
+  default_prompt: "Use $gcs to route and solve my 目标执行、销售与团队训练 problem."

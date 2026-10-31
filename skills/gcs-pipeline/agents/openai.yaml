@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grant Cardone · 销售管道与活动指标"
+  short_description: "Build a 销售管道与活动指标 using expert methodology"
+  default_prompt: "Use $gcs-pipeline to build a practical 销售管道与活动指标 for my situation."
